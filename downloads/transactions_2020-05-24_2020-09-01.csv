@@ -1,0 +1,384 @@
+Date,Amount,Name,Category
+2020-09-01,10,GOOD2GO-INTERNET,Food and Drink,Restaurants
+2020-09-01,-2696.59,PENDING PAYMENT,Transfer,Credit
+2020-09-01,-1000,PENDING PAYMENT,Transfer,Credit
+2020-09-01,-477.83,PENDING PAYMENT,Transfer,Credit
+2020-08-31,4.72,7-Eleven,Shops,Convenience Stores
+2020-08-31,24,Cloudburst Brewing,Food and Drink,Breweries
+2020-08-31,1414.77,LS RECYCLED CYCLES IN,Shops,Bicycles
+2020-08-31,53.5,MUSANG SEATTLE,Food and Drink,Restaurants
+2020-08-31,4.75,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-08-31,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,0.5,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,0.9,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-31,40.06,SHORELINE CTRL MKT,Shops,Supermarkets and Groceries
+2020-08-31,18.17,TACOS CHUKIS BEACON Hgosq.com,Food and Drink,Restaurants
+2020-08-31,100,TMOBILE*AUTO PAY,Service,Telecommunication Services
+2020-08-31,34.73,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-08-30,2.2,PORKCHOP CO,Food and Drink,Restaurants
+2020-08-28,23.23,CARSTICKERS.COM OR,Service
+2020-08-28,1.99,Google Cloud Storage,Service,Business Services
+2020-08-28,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-28,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-28,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-27,27.97,Bluebird Ice Cream,Food and Drink,Restaurants,Ice Cream
+2020-08-27,33.33,KOREAN BAMBOO,Food and Drink,Restaurants
+2020-08-26,104,Costco,Shops,Warehouses and Wholesale Stores
+2020-08-26,19.36,Costco Gas,Travel,Gas Stations
+2020-08-26,8.06,Lighthouse Roasters,Food and Drink,Restaurants
+2020-08-26,59.44,MUD BAY BALLARD,Shops,Pets
+2020-08-26,49.69,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-26,87.36,WHIRLPOOL CANADA LP DARTMOUTH NS,Service,Home Improvement,Home Appliances
+2020-08-25,46.2,ASADERO BALLARD,Food and Drink,Restaurants
+2020-08-25,25,NUNA RAMEN,Food and Drink,Restaurants
+2020-08-24,16.5,APPLE.COM/BILL,Shops,Digital Purchase
+2020-08-24,30.51,HONEYHOLE SANDWICHES,Food and Drink,Restaurants
+2020-08-24,31.7,NIT THAI DESSERT,Food and Drink,Restaurants
+2020-08-24,10.63,Netflix,Service,Subscription
+2020-08-24,11.62,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-08-24,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-08-24,29.04,Peddler Brewing Company,Food and Drink,Breweries
+2020-08-24,9.1,Porkchop & Co.,Food and Drink,Restaurants
+2020-08-24,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-24,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-24,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-24,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-24,2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-24,17,SEA WOLF BAKERS,Food and Drink,Restaurants
+2020-08-24,36.95,TST* GENERAL PORPOISE 1 -SEATTLE,Food and Drink,Restaurants
+2020-08-24,16.48,The DISH,Food and Drink,Restaurants
+2020-08-24,36.35,The DISH,Food and Drink,Restaurants
+2020-08-24,22.14,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-22,0.08,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-22,0.17,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-22,1.19,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-22,1.14,SEATTLE METER PARKING,Travel,Parking
+2020-08-22,24,THAI ON 1,Food and Drink,Restaurants
+2020-08-21,34.43,76 - DRAVUS 76,Travel,Gas Stations
+2020-08-21,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-21,2,SEATTLE METER PARKING,Travel,Parking
+2020-08-20,10.53,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-08-20,165.29,JET CITY ANIMAL CLINIC,Service,Veterinarians
+2020-08-20,7.5,Lighthouse Roasters,Food and Drink,Restaurants
+2020-08-20,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-20,0.92,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-20,28.56,TNT Taqueria,Food and Drink,Restaurants,Mexican
+2020-08-19,22.44,GEICO,Service,Insurance
+2020-08-19,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-19,2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-18,16.49,Spotify,Service,Subscription
+2020-08-18,98.04,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-17,14.5,CARSTICKERS.COM OR,Service
+2020-08-17,13.08,Cafe Argento,Food and Drink,Restaurants,Coffee Shop
+2020-08-17,47.16,Home Depot,Shops,Hardware Store
+2020-08-17,15.85,Hot Cakes Molten Chocolate Cakery,Food and Drink,Restaurants,Dessert
+2020-08-17,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-08-17,20.52,Peddler Brewing Company,Food and Drink,Breweries
+2020-08-17,6.5,Porkchop & Co.,Food and Drink,Restaurants
+2020-08-17,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,0.47,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,1.5,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-17,13.4,Stoneway Hardware,Service,Home Improvement,Hardware and Services
+2020-08-17,10.67,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-17,23.54,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-17,32.25,ZEKES DRIVE-IN,Food and Drink,Bar
+2020-08-15,477.83,FULLY OR,Service
+2020-08-15,2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-15,29.22,THAI ON 1,Food and Drink,Restaurants
+2020-08-15,181.64,WA DOL LIC & REG 89491,Community,Government Departments and Agencies
+2020-08-14,10.65,Lighthouse Roasters,Food and Drink,Restaurants
+2020-08-14,35.83,SHIKU SUSHI,Food and Drink,Restaurants
+2020-08-13,74.25,DISCOVER DOUBLE LEEDS,Food and Drink,Restaurants
+2020-08-12,18.83,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-08-12,17.87,CRESCENT MARKET AT SNOQU,Shops,Supermarkets and Groceries
+2020-08-12,0.75,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-11,4.72,7-Eleven,Shops,Convenience Stores
+2020-08-11,29.92,Porkchop & Co.,Food and Drink,Restaurants
+2020-08-11,14.5,SEA WOLF BAKERS,Food and Drink,Restaurants
+2020-08-11,2,SEATTLE METER PARKING,Travel,Parking
+2020-08-10,100,AIRBNB GIFTCARD,Travel,Lodging,Hotels and Motels
+2020-08-10,10.99,BARTELL DRUG 71-BALLARDC,Shops,Pharmacies
+2020-08-10,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-08-10,18.77,PORTAGE BA* PORTAGE BA PORTAGEBAYCAFWA,Food and Drink,Restaurants
+2020-08-10,15.61,Porkchop & Co.,Food and Drink,Restaurants
+2020-08-10,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-10,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-10,0.9,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-10,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-10,37.37,SPICE UP,Food and Drink,Restaurants
+2020-08-10,121.34,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-08,-100,Online payment from SAV 5209,Transfer,Payroll
+2020-08-08,29.22,THAI ON 1,Food and Drink,Restaurants
+2020-08-05,4.39,APPLE.COM/BILL,Shops,Digital Purchase
+2020-08-04,23.82,Marketime Foods,Food and Drink,Restaurants
+2020-08-04,-1000,Online payment from CHK 2760,Transfer,Deposit
+2020-08-04,79.12,SEATTLE CITY LIGHT,Community,Government Departments and Agencies
+2020-08-04,0.96,Stoneway Hardware,Service,Home Improvement,Hardware and Services
+2020-08-04,25.86,West Marine,Shops,Marine Supplies
+2020-08-03,3.29,Costco,Shops,Warehouses and Wholesale Stores
+2020-08-03,72.61,Costco,Shops,Warehouses and Wholesale Stores
+2020-08-03,7.23,Fremont Coffee,Food and Drink,Restaurants
+2020-08-03,13.21,Hot Cakes Molten Chocolate Cakery,Food and Drink,Restaurants,Dessert
+2020-08-03,21.35,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-08-03,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-03,0.5,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-03,0.97,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-08-03,35.9,Shell,Travel,Gas Stations
+2020-08-03,28.15,TST* CACTUS - MADISON PAR206-788-7331,Food and Drink,Restaurants
+2020-08-03,46.74,Trader Joe's,Shops,Supermarkets and Groceries
+2020-08-03,40,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-08-01,7.7,APPLE.COM/BILL,Shops,Digital Purchase
+2020-08-01,62.51,Home Depot,Shops,Hardware Store
+2020-08-01,40.23,NUNA RAMEN,Food and Drink,Restaurants
+2020-08-01,-3524.91,Online payment from CHK 2760,Transfer,Deposit
+2020-08-01,-320.29,Online payment from CHK 2760,Transfer,Deposit
+2020-08-01,-500,Online payment from SAV 4952,Transfer,Payroll
+2020-08-01,28.62,The Matador,Food and Drink,Restaurants,Mexican
+2020-07-31,75,ANNUAL FEE,Bank Fees
+2020-07-31,8.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-31,8.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-31,15.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-31,4.7,Hood Canal Outfitters,Shops,Convenience Stores
+2020-07-31,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-07-31,100,TMOBILE*AUTO PAY,Service,Telecommunication Services
+2020-07-31,19.55,WSFERRIES-FAUNTLEROY,Travel,Public Transportation Services
+2020-07-31,12.45,WSFERRIES-SOUTHWORTH,Travel,Boat
+2020-07-30,2,CHUG A TUG ESPRESSO,Food and Drink,Restaurants,Coffee Shop
+2020-07-30,30,THAI ON 1,Food and Drink,Restaurants
+2020-07-30,35.25,The DISH,Food and Drink,Restaurants
+2020-07-29,25.31,BARTELL DRUG 71-BALLARDC,Shops,Pharmacies
+2020-07-29,28.58,SHIKU SUSHI,Food and Drink,Restaurants
+2020-07-28,2410.49,AIRBNB HM2AW5WZJF AIRBNB.COM,Travel,Lodging,Hotels and Motels
+2020-07-27,25.19,CRESCENT MARKET AT SNOQU,Shops,Supermarkets and Groceries
+2020-07-27,91.71,Costco,Shops,Warehouses and Wholesale Stores
+2020-07-27,13.79,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-07-27,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-07-27,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-07-27,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-07-27,1.75,USA*VEND AT AIR SERV,Food and Drink
+2020-07-25,14.17,BARTELL DRUG 71-BALLARDC,Shops,Pharmacies
+2020-07-25,37.21,Kedai Makan,Food and Drink,Restaurants,Asian
+2020-07-25,7.25,Mighty-o Donuts,Food and Drink,Restaurants,Donuts
+2020-07-25,0.88,ONLINE ORDER HANDLING,Shops,Hardware Store
+2020-07-24,2.99,7-Eleven,Shops,Convenience Stores
+2020-07-24,77.02,FITBIT, INC. WWW.FITBIT.COCA,Service
+2020-07-24,128.89,GEICO,Service,Insurance
+2020-07-24,9.82,Hello Robi,Food and Drink,Restaurants
+2020-07-24,28.62,The Matador,Food and Drink,Restaurants,Mexican
+2020-07-23,7.28,Miro Tea,Shops,Food and Beverage Store
+2020-07-23,10.44,Netflix,Service,Subscription
+2020-07-23,66.21,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-07-23,0.22,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-07-23,1100.99,West Marine,Shops,Marine Supplies
+2020-07-21,35,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-07-20,32,7-Eleven,Shops,Convenience Stores
+2020-07-20,16.5,AMZN DIGITAL*MV0RR6TY0,Shops,Digital Purchase
+2020-07-20,6.5,Lighthouse Roasters,Food and Drink,Restaurants
+2020-07-20,143.13,MOSS BAY KAYAK 2066822031,Shops,Sporting Goods
+2020-07-20,65.28,NINTENDO *AMERICAUS,Service,Entertainment
+2020-07-20,66.06,OUTDOOR RESEARCH,Shops,Sporting Goods
+2020-07-20,10.04,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-07-20,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-07-20,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-07-20,18.17,TACOS CHUKIS BEACON Hgosq.com,Food and Drink,Restaurants
+2020-07-20,28.62,The Matador,Food and Drink,Restaurants,Mexican
+2020-07-18,16.49,Spotify,Service,Subscription
+2020-07-18,28.12,THAI ON 1,Food and Drink,Restaurants
+2020-07-17,120.49,Trader Joe's,Shops,Supermarkets and Groceries
+2020-07-16,18.83,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-07-16,34.02,Uber Eats,Service
+2020-07-14,7.98,7-Eleven,Shops,Convenience Stores
+2020-07-14,15.64,SALT & STRAW ICE CREASeattle,Shops,Food and Beverage Store
+2020-07-13,89,DISCOVER DOUBLE LEEDS,Food and Drink,Restaurants
+2020-07-13,26.37,Fred Meyer,Shops,Supermarkets and Groceries
+2020-07-13,66.06,MOSS BAY KAYAK 2066822031,Shops,Sporting Goods
+2020-07-13,21.62,NUNA RAMEN,Food and Drink,Restaurants
+2020-07-13,19.37,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-07-13,4.75,PIM BICYCLES & COF,Shops,Bicycles
+2020-07-13,21.85,SMART FOODSERVICE 562,Shops,Warehouses and Wholesale Stores
+2020-07-13,396.36,The Bass Church,Shops,Musical Instruments
+2020-07-13,28.12,The Matador,Food and Drink,Restaurants,Mexican
+2020-07-13,38.03,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-07-11,45.2,ASADERO BALLARD,Food and Drink,Restaurants
+2020-07-11,18.83,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-07-10,19.94,KEN'S MARKET #75-116,Shops,Supermarkets and Groceries
+2020-07-09,-30.83,ARITZIA.COM,Shops,Clothing and Accessories,Women's Store
+2020-07-09,7.5,PIM BICYCLES & COF,Shops,Bicycles
+2020-07-09,28.12,THAI ON 1,Food and Drink,Restaurants
+2020-07-08,-15.99,Netflix,Service,Subscription
+2020-07-08,-8.99,Netflix,Service,Subscription
+2020-07-08,-8.99,Netflix,Service,Subscription
+2020-07-07,5.98,7-Eleven,Shops,Convenience Stores
+2020-07-07,-15.99,Netflix,Service,Subscription
+2020-07-07,-15.99,Netflix,Service,Subscription
+2020-07-07,15.43,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-07-07,-9.99,Spotify,Service,Subscription
+2020-07-07,-9.99,Spotify,Service,Subscription
+2020-07-06,-15.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-06,-8.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-06,-8.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-06,-8.99,FRAUD DISPUTE,Bank Fees,Fraud Dispute
+2020-07-06,28.25,Fred Meyer,Shops,Supermarkets and Groceries
+2020-07-06,-2958.16,Online payment from CHK 2760,Transfer,Deposit
+2020-07-06,-1000,Online payment from CHK 2760,Transfer,Deposit
+2020-07-06,30.76,PCC - FREMONT,Shops,Supermarkets and Groceries
+2020-07-06,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-07-06,8.56,SALT & STRAW ICE CREASeattle,Shops,Food and Beverage Store
+2020-07-06,4.71,Stoneway Hardware,Service,Home Improvement,Hardware and Services
+2020-07-04,8,CAPT'N JACK'S,Food and Drink,Restaurants
+2020-07-04,28.87,Chevron,Travel,Gas Stations
+2020-07-04,18.5,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-07-04,4.16,TINDERBOX COFFEE ROASTER,Food and Drink,Restaurants,Coffee Shop
+2020-07-04,62.09,Trader Joe's,Shops,Supermarkets and Groceries
+2020-07-04,30.06,Un Bien,Food and Drink,Restaurants,Caribbean
+2020-07-03,119.99,CONSERVICE, LLC,Service
+2020-07-02,19.57,Bennett's Fish Shack,Food and Drink,Restaurants
+2020-07-02,0.2,Etsy Inc Seller Fees,Shops,Digital Purchase
+2020-06-30,-100,AIRBNB HMKR2HEBN9 AIRBNB.COM,Travel,Lodging,Hotels and Motels
+2020-06-30,17.41,Shell,Travel,Gas Stations
+2020-06-30,3.25,Steepwater Surf,Shops,Sporting Goods
+2020-06-30,100,TMOBILE*AUTO PAY,Service,Telecommunication Services
+2020-06-29,3.29,APPLE.COM/BILL,Shops,Digital Purchase
+2020-06-29,3.29,APPLE.COM/BILL,Shops,Digital Purchase
+2020-06-29,19,Blackbeard's Brewing Co.,Food and Drink,Breweries
+2020-06-29,13.15,Costco Gas,Travel,Gas Stations
+2020-06-29,34.75,HANS SAUSAGE INC,Food and Drink,Restaurants
+2020-06-29,10.3,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-29,40.23,NUNA RAMEN,Food and Drink,Restaurants
+2020-06-29,92.45,PCC - COLUMBIA CITY,Shops,Supermarkets and Groceries
+2020-06-29,7.5,PIM BICYCLES &,Shops,Bicycles
+2020-06-29,24.97,ROSELLINIS,Food and Drink,Restaurants
+2020-06-29,209.19,Surf Ballard,Service,Financial,Banking and Finance
+2020-06-29,137.43,Trader Joe's,Shops,Supermarkets and Groceries
+2020-06-29,1.75,USA*VEND AT AIR SERV,Food and Drink
+2020-06-29,14.87,Un Bien,Food and Drink,Restaurants,Caribbean
+2020-06-27,40.23,NUNA RAMEN,Food and Drink,Restaurants
+2020-06-27,14.66,ROSELLINIS,Food and Drink,Restaurants
+2020-06-26,39.27,76 - DBA BROADWAY ROY GASSEATTLE,Travel,Gas Stations
+2020-06-26,931.65,AIRBNB HMKR2HEBN9 AIRBNB.COM,Travel,Lodging,Hotels and Motels
+2020-06-26,100,AIRBNB INC AIRBNB.COM,Travel,Lodging,Hotels and Motels
+2020-06-26,18.17,TACOS CHUKIS SOUTH LAgosq.com,Food and Drink,Restaurants
+2020-06-25,16.16,ARASHI RAMEN BALLARD,Food and Drink,Restaurants
+2020-06-25,12.94,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-06-25,27.53,MOSS BAY KAYAK 2066822031,Shops,Sporting Goods
+2020-06-25,27.35,Un Bien,Food and Drink,Restaurants,Caribbean
+2020-06-24,41.78,Amazon,Shops,Digital Purchase
+2020-06-24,7.5,PIM BICYCLES &,Shops,Bicycles
+2020-06-23,10.35,Netflix,Service,Subscription
+2020-06-23,23.6,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-06-23,8,SEA WOLF LLC,Food and Drink,Restaurants
+2020-06-22,129.23,Costco,Shops,Warehouses and Wholesale Stores
+2020-06-22,25.36,Costco Gas,Travel,Gas Stations
+2020-06-22,1.91,Google Cloud Storage,Service,Business Services
+2020-06-22,50.04,Mamnoon Llc,Food and Drink,Restaurants
+2020-06-22,10.97,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-06-22,8.99,PIM BICYCLES &,Shops,Bicycles
+2020-06-22,36.38,SHIKU SUSHI,Food and Drink,Restaurants
+2020-06-22,11.34,SP * ROSLYN CANDY CO.,Shops,Food and Beverage Store
+2020-06-22,17.73,TACOS CHUKIS SOUTH LAgosq.com,Food and Drink,Restaurants
+2020-06-22,40.7,Trader Joe's,Shops,Supermarkets and Groceries
+2020-06-20,6.59,APPLE.COM/BILL,Shops,Digital Purchase
+2020-06-20,10.3,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-20,5.75,PIM BICYCLES &,Shops,Bicycles
+2020-06-20,16.5,Prime Video*MS1YK9JM2,Service,Subscription
+2020-06-20,47,SEATTLE MUNI INT #950003,Community,Government Departments and Agencies
+2020-06-20,47,SEATTLE MUNI INT #950003,Community,Government Departments and Agencies
+2020-06-20,18.5,USPS PO 5476010005,Service,Shipping and Freight
+2020-06-19,15.2,Fred Meyer,Shops,Supermarkets and Groceries
+2020-06-19,128.89,GEICO,Service,Insurance
+2020-06-18,14.99,Spotify,Service,Subscription
+2020-06-18,5.37,Stoneway Hardware,Service,Home Improvement,Hardware and Services
+2020-06-18,18.57,Stoneway Hardware,Service,Home Improvement,Hardware and Services
+2020-06-17,29.98,Amazon,Shops,Digital Purchase
+2020-06-17,32.52,THAI ON 1,Food and Drink,Restaurants
+2020-06-16,9.52,Amazon.com*MS53N8OC0 Amzn.com/billWA,Shops,Digital Purchase
+2020-06-16,18.83,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-06-16,15.99,Netflix,Service,Subscription
+2020-06-16,40.88,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-06-16,-99.95,SP * CKS ONLINE CO,Shops,Clothing and Accessories
+2020-06-16,35,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-06-15,30,GOOD2GOREPLENISH,Food and Drink,Restaurants
+2020-06-15,30.1,HANS SAUSAGE INC,Food and Drink,Restaurants
+2020-06-15,10.47,PCC - FREMONT,Shops,Supermarkets and Groceries
+2020-06-15,7.5,PIM BICYCLES &,Shops,Bicycles
+2020-06-15,32.5,POKE TO THE MAX,Food and Drink,Restaurants
+2020-06-15,22.25,SEA WOLF LLC,Food and Drink,Restaurants
+2020-06-13,4.39,APPLE.COM/BILL,Shops,Digital Purchase
+2020-06-13,2.8,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-13,25,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-13,40.53,Mamnoon Llc,Food and Drink,Restaurants
+2020-06-13,7.5,PIM BICYCLES &,Shops,Bicycles
+2020-06-12,131.02,Amazon Prime,Shops,Digital Purchase
+2020-06-12,800,BENEVITY DONATIONS,Community,Organizations and Associations,Charities and Non-Profits
+2020-06-12,152.31,CANADAHELPS *DONATION ON,Community,Organizations and Associations,Charities and Non-Profits
+2020-06-12,110.09,West Marine,Shops,Marine Supplies
+2020-06-11,15.4,NINTENDO *AMERICAUS,Service,Entertainment
+2020-06-11,-953.26,Online payment from CHK 2760,Transfer,Deposit
+2020-06-11,99.95,SP * CKS ONLINE 9703448836 CO,Shops,Clothing and Accessories
+2020-06-11,29.26,Safeway,Shops,Supermarkets and Groceries
+2020-06-10,30.83,ARITZIA.COM,Shops,Clothing and Accessories,Women's Store
+2020-06-10,44.99,Comcast,Service,Cable
+2020-06-09,17.2,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-09,-46.59,MEGAZIP NAGOYASHI NIS,Transfer,Credit
+2020-06-09,15.99,Netflix,Service,Subscription
+2020-06-09,34.48,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-06-08,4.91,CAFFE LADRO - 04,Shops,Food and Beverage Store
+2020-06-08,9.12,DISTRICT-H,Shops,Supermarkets and Groceries
+2020-06-08,61.41,Home Depot,Shops,Hardware Store
+2020-06-08,26.96,MOPED METZG EBAY,Shops,Digital Purchase
+2020-06-08,70.77,PCC - BALLARD,Shops,Supermarkets and Groceries
+2020-06-08,36.38,SHIKU SUSHI,Food and Drink,Restaurants
+2020-06-08,9.99,Spotify,Service,Subscription
+2020-06-08,60.76,Trader Joe's,Shops,Supermarkets and Groceries
+2020-06-06,46.59,MEGAZIP NAGOYASHI NIS,Food and Drink,Restaurants
+2020-06-06,30.32,THAI ON 1,Food and Drink,Restaurants
+2020-06-06,7.17,UNEEDA BUR* UNEEDA BUR STRIPE.COM,Food and Drink,Restaurants
+2020-06-05,4.75,PIM BICYCLES &,Shops,Bicycles
+2020-06-04,10.34,Amazon,Shops,Digital Purchase
+2020-06-04,11.3,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-04,19.49,SCHMALTZY'S DELICATESSeattle,Food and Drink,Restaurants
+2020-06-04,51.55,USPS PO 5476010005,Service,Shipping and Freight
+2020-06-03,31.31,ARASHI RAMEN BALLARD,Food and Drink,Restaurants
+2020-06-03,110.25,CONSERVICE, LLC,Service
+2020-06-03,12,EDDIE VINE BOAT RAMP,Recreation
+2020-06-03,30.94,SP * SHOP HBO HTTPSSHOPHBO.NY,Shops
+2020-06-02,3,Etsy Inc Seller Fees,Shops,Digital Purchase
+2020-06-02,-16.46,Online payment from CHK 2760,Transfer,Deposit
+2020-06-02,96,SEATTLE CITY LIGHT,Community,Government Departments and Agencies
+2020-06-02,33.3,TST* ROCKET TACO - SEATTLSEATTLE,Food and Drink,Restaurants
+2020-06-02,35,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-06-01,78.42,Costco,Shops,Warehouses and Wholesale Stores
+2020-06-01,26.34,Costco Gas,Travel,Gas Stations
+2020-06-01,66.06,INTUIT *TURBOTAX,Service,Financial,Taxes
+2020-06-01,47.85,Kedai Makan,Food and Drink,Restaurants,Asian
+2020-06-01,27.35,Lighthouse Roasters,Food and Drink,Restaurants
+2020-06-01,9.72,Madison Park Bakery,Food and Drink,Restaurants,Bakery
+2020-06-01,1.14,ONLINE ORDER HANDLING,Shops,Hardware Store
+2020-06-01,-6670.29,Online payment from CHK 2760,Transfer,Deposit
+2020-06-01,19.28,Stoneway Hardware,Service,Home Improvement,Hardware and Services
+2020-06-01,17.29,TACOS CHUKIS SOUTH LAgosq.com,Food and Drink,Restaurants
+2020-06-01,100,TMOBILE*AUTO PAY,Service,Telecommunication Services
+2020-06-01,39.89,Trader Joe's,Shops,Supermarkets and Groceries
+2020-05-30,8.16,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-05-30,15.06,PASEO,Travel,Parking
+2020-05-29,8.16,Anchored Ship Coffee Bar,Food and Drink,Restaurants,Coffee Shop
+2020-05-28,74.87,ARITZIA.COM,Shops,Clothing and Accessories,Women's Store
+2020-05-27,36.37,BIG MARIOS FREELARD,Food and Drink,Restaurants
+2020-05-26,37.79,MTC ENTERPRISE LLC,Travel,Car and Truck Rentals
+2020-05-26,10.25,SEA WOLF LLC,Food and Drink,Restaurants
+2020-05-26,50.82,Trader Joe's,Shops,Supermarkets and Groceries
+2020-05-25,33,AMAZON.COM*M773B5DB1 AMZNAMZN.COM/BILLWA,Shops,Digital Purchase
+2020-05-25,31.86,Chevron,Travel,Gas Stations
+2020-05-25,9.71,Ha,Food and Drink,Restaurants
+2020-05-25,5.15,KITANDA REDMOND,Food and Drink,Restaurants
+2020-05-25,11.74,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-05-25,28.1,The DISH,Food and Drink,Restaurants
+2020-05-25,28.1,The DISH,Food and Drink,Restaurants

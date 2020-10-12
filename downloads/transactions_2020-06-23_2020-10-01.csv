@@ -1,0 +1,119 @@
+Date,Amount,Name,Category
+2020-09-30,168.42,Lowe's,Shops,Hardware Store
+2020-09-30,17.28,MARKETIME FOODS,Shops,Supermarkets and Groceries
+2020-09-30,-55.05,Nike US Stores,Shops,Clothing and Accessories
+2020-09-30,0.11,SDOT PAYBYPHONE PARKIN,Travel,Parking
+2020-09-30,2,SDOT PAYBYPHONE PARKIN,Travel,Parking
+2020-09-30,36.93,SEN NOODLE BAR,Food and Drink,Restaurants
+2020-09-30,100,TMOBILE*AUTO PAY,Service,Telecommunication Services
+2020-09-30,34.47,TST* GH PASTA CO,Food and Drink,Restaurants
+2020-09-30,7.75,USPS PO 5476010005,Service,Shipping and Freight
+2020-09-29,28.65,7-Eleven,Shops,Convenience Stores
+2020-09-29,30,GOOD2GOREPLENISH,Food and Drink,Restaurants
+2020-09-29,319.24,REI #11 SEATTLE,Shops,Sporting Goods
+2020-09-28,16.5,APPLE.COM/BILL,Shops,Digital Purchase
+2020-09-28,4.39,Fred Meyer,Shops,Supermarkets and Groceries
+2020-09-28,1.99,Google Cloud Storage,Service,Business Services
+2020-09-28,19.09,HONEYHOLE SANDWICHES,Food and Drink,Restaurants
+2020-09-28,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-09-28,380.94,REI #11 SEATTLE,Shops,Sporting Goods
+2020-09-28,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-28,0.2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-28,0.5,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-28,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-28,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-28,0.73,SEATTLE METER PARKING,Travel,Parking
+2020-09-28,18.48,THE DISH,Service,Cable
+2020-09-28,29,THE MATADOR,Food and Drink,Restaurants
+2020-09-27,28.65,7-Eleven,Shops,Convenience Stores
+2020-09-26,15.05,Amazon.com*M45WD7MV0 Amzn.com/billWA,Shops,Digital Purchase
+2020-09-26,112.13,DRI*FITBIT INC. orderfind.com,Service
+2020-09-26,40,KOREAN BAMBOO,Food and Drink,Restaurants
+2020-09-26,19.62,ROSELLINIS,Food and Drink,Restaurants
+2020-09-26,0.75,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-26,44,SEATTLE MUNI INT #950003,Community,Government Departments and Agencies
+2020-09-26,338.1,WA DOL LIC & REG 89491,Community,Government Departments and Agencies
+2020-09-25,15.13,Amazon,Shops,Digital Purchase
+2020-09-25,31.27,FRELARD TAMALES,Food and Drink,Restaurants
+2020-09-25,21,SWANS TRAIL FARMS INCSnohomish,Food and Drink,Restaurants
+2020-09-25,43.43,TSUKUSHINBO RESTAURANT,Food and Drink,Restaurants
+2020-09-25,26.9,USPS PO 5476010005,Service,Shipping and Freight
+2020-09-24,0.29,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-23,25.02,FRELARD TAMALES,Food and Drink,Restaurants
+2020-09-23,55.05,NIKE.COM OR,Shops,Clothing and Accessories,Shoe Store
+2020-09-23,10.54,Netflix,Service,Subscription
+2020-09-22,49.51,Amazon,Shops,Digital Purchase
+2020-09-22,13.21,HLU*Hulu 1763837286690-U HULU.COM/BILLCA,Service,Subscription
+2020-09-22,31.87,TST* GH PASTA CO,Food and Drink,Restaurants
+2020-09-22,9.7,WSFERRIES-CLINTON,Travel,Public Transportation Services
+2020-09-22,17.8,WSFERRIES-MUKILTEO,Travel,Boat
+2020-09-21,7.75,BROWN BEAR CAR WASH #1026SEATTLE,Service,Automotive,Car Wash and Detail
+2020-09-21,19.65,HONEYHOLE SANDWICHES,Food and Drink,Restaurants
+2020-09-21,-176.14,Online payment from CHK 2760,Transfer,Deposit
+2020-09-21,-40,Online payment from CHK 2760,Transfer,Deposit
+2020-09-21,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-09-21,26.06,QFC FUEL #9832,Travel,Gas Stations
+2020-09-21,0.39,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-21,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-21,16.48,THE DISH,Service,Cable
+2020-09-21,17.45,Trader Joe's,Shops,Supermarkets and Groceries
+2020-09-19,123.28,GEICO,Service,Insurance
+2020-09-19,4.29,MARKETIME FOODS,Shops,Supermarkets and Groceries
+2020-09-19,2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-19,14.63,TIMELESS TEA,Shops,Food and Beverage Store
+2020-09-18,25.02,FRELARD TAMALES,Food and Drink,Restaurants
+2020-09-18,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-09-18,14.42,ROSELLINIS,Food and Drink,Restaurants
+2020-09-18,16.49,Spotify,Service,Subscription
+2020-09-17,16.46,Audible,Shops,Digital Purchase
+2020-09-17,2,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-17,17.59,STONEWAY HARDWARE,Shops,Hardware Store
+2020-09-17,33.77,TST* GH PASTA CO,Food and Drink,Restaurants
+2020-09-16,15.14,Amazon,Shops,Digital Purchase
+2020-09-16,34.73,VERAS PIZZA & BAR,Food and Drink,Restaurants
+2020-09-14,86.62,Costco,Shops,Warehouses and Wholesale Stores
+2020-09-14,19.52,FRELARD TAMALES,Food and Drink,Restaurants
+2020-09-14,33.33,KOREAN BAMBOO,Food and Drink,Restaurants
+2020-09-14,3.29,Prime Video*MU29R5YZ2,Service,Subscription
+2020-09-14,7.7,Prime Video*MU9H64D20,Service,Subscription
+2020-09-14,176.14,Staples,Shops,Office Supplies
+2020-09-14,19.29,TOP BANANA,Shops,Clothing and Accessories
+2020-09-14,31.79,Trader Joe's,Shops,Supermarkets and Groceries
+2020-09-12,48.2,ASADERO BALLARD,Food and Drink,Restaurants
+2020-09-12,19.52,FRELARD TAMALES,Food and Drink,Restaurants
+2020-09-12,9.98,LIGHTHOUSE ROASTERS,Food and Drink,Restaurants
+2020-09-11,34.56,TSUI SUSHI BAR,Food and Drink,Restaurants
+2020-09-10,4.39,APPLE.COM/BILL,Shops,Digital Purchase
+2020-09-10,154.97,Comcast,Service,Cable
+2020-09-09,9.57,BARTELL DRUG 71-BALLARDC,Shops,Pharmacies
+2020-09-09,7.28,MIRO TEA,Shops,Food and Beverage Store
+2020-09-08,36.63,Chevron,Travel,Gas Stations
+2020-09-08,28.67,THE MATADOR,Food and Drink,Restaurants
+2020-09-07,97.5,BISTRO TURKUAZ,Food and Drink,Restaurants
+2020-09-07,4.95,JIMMY'S ICE CREAM,Shops,Food and Beverage Store
+2020-09-07,15.05,MARKETIME FOODS,Shops,Supermarkets and Groceries
+2020-09-07,13.51,MIGHTY-O DONUTS,Shops,Food and Beverage Store
+2020-09-07,5.49,PIM PRODUCTS,Food and Drink,Restaurants
+2020-09-07,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-07,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-07,0.25,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-07,0.5,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-07,0.5,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-07,29.91,SHORELINE CTRL MKT,Shops,Supermarkets and Groceries
+2020-09-07,20.05,THE DISH,Service,Cable
+2020-09-05,7.5,PIM BICYCLES & COFFEEWOODINVILLE,Shops,Bicycles
+2020-09-04,1,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-04,10.53,TOP BANANA,Shops,Clothing and Accessories
+2020-09-04,49.54,Trader Joe's,Shops,Supermarkets and Groceries
+2020-09-03,21.47,ANCHORED SHIP COFFEE,Food and Drink,Restaurants,Coffee Shop
+2020-09-03,0.12,SDOT PAYBYPHONE PARKING,Travel,Parking
+2020-09-03,8,SEA WOLF BAKERS,Food and Drink,Restaurants
+2020-09-03,1,SEATTLE METER PARKING,Travel,Parking
+2020-09-03,1.38,SEATTLE METER PARKING,Travel,Parking
+2020-09-02,10,GOOD2GO-INTERNET,Food and Drink,Restaurants
+2020-09-02,-1400,Online payment from CHK 2760,Transfer,Deposit
+2020-09-02,18.52,Trader Joe's,Shops,Supermarkets and Groceries
+2020-09-01,-2696.59,Online payment from CHK 2760,Transfer,Deposit
+2020-09-01,-1000,Online payment from CHK 2760,Transfer,Deposit
+2020-09-01,-477.83,Online payment from CHK 2760,Transfer,Deposit
+2020-09-01,2.2,PORKCHOP CO,Food and Drink,Restaurants
